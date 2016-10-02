@@ -1,0 +1,27 @@
+Project Proposal - 10/21 11.59 PM
+Project Milestone - 11/18 5.00 PM
+Poster Session - 12/13 (8.30-11.30 AM)
+Final Writeup - 12/16 11.59 PM
+
+Potential ideas:
+1. Misinformation on Wikipedia;  What about extending this project to Edit suggestions in Wikipedia?  The way that the problem can be formulated as characterizing and predicting edits for a piece of text in Wikipedia - the edits can then be divided into a)adding hyperlinks b)misinformation, etc. We can study what kind of features are important for different kinds of edits.
+Resources: https://en.wikipedia.org/wiki/Help:Page_history ; https://snap.stanford.edu/data/wiki-meta.html 
+2. Mid-air collision of aircraft include weather/ Air collision fatalities
+3. Social networking problem - Twitter, LinkedIn, Yelp, Craigslist
+4. Misinformation on online reviews (something like malicious intent in reviews - need to check prior art)
+Resources: https://snap.stanford.edu/data/web-Amazon.html 
+5. Sexual Assault – Use neuroimaging data to predict if an alleged assaulter is likely to commit the crime. Need to find an appropriate dataset.
+6. Predicting what book will be borrowed on a particular day from the Stanford Library
+7. Weather or Environment related problem
+8. Connect 4/Chinese Checkers 
+9) Predicting which VCs are most likely to invest in your idea – based on their investment portfolios, competitive strategy, and other business factors.
+10) Predicting if a political move will be well received by the electorate. This would entail identifying gaffes and clever moves in political campaigns based on analysis of correlation between news articles and sentiments on social media. This in turn could be used to devise an effective strategy for campaigns.
+11) Identify an authentic work of art from forgery by learning the painter’s style from his well-known paintings. See https://www.kaggle.com/c/painter-by-numbers
+12) Distracted driver detection using computer vision. See https://www.kaggle.com/c/state-farm-distracted-driver-detection
+13) Classify customer potential – predicting business value of a customer. See https://www.kaggle.com/c/predicting-red-hat-business-value.
+
+
+
+Potential data sets:
+http://archive.ics.uci.edu/ml/datasets.html?format&task&att&area&numAtt&numIns&type&sort=dateUp&view=table
+https://l.facebook.com/l.php?u=https%3A%2F%2Fsnap.stanford.edu%2Fdata%2Fwiki-meta.html&h=9AQGbKgv4
